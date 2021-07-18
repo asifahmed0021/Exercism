@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="TwoferTest" tests="4" skipped="3" failures="0" errors="0" timestamp="2021-07-18T09:53:29" hostname="Asifs-Air" time="0.005">
+<testsuite name="TwoferTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2021-07-18T13:37:14" hostname="Asifs-Air" time="0.029">
   <properties/>
   <testcase name="noNameGiven" classname="TwoferTest" time="0.003"/>
-  <testcase name="emptyStringIsNotTheSameAsNull" classname="TwoferTest" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="aNameGiven" classname="TwoferTest" time="0.0">
-    <skipped/>
-  </testcase>
-  <testcase name="anotherNameGiven" classname="TwoferTest" time="0.0">
-    <skipped/>
-  </testcase>
+  <testcase name="emptyStringIsNotTheSameAsNull" classname="TwoferTest" time="0.0"/>
+  <testcase name="aNameGiven" classname="TwoferTest" time="0.024"/>
+  <testcase name="anotherNameGiven" classname="TwoferTest" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
